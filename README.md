@@ -15,8 +15,15 @@ In this lab, I simulated an insider threat scenario where a privileged sysadmin,
 # Phase 0 — Initial Setup 🛠️
 I set up the environment and made sure all the key players were ready. I created an IR consultant user and confirmed the privileged status of steveg.  
 
+<img width="625" height="292" alt="cgL0PGs" src="https://github.com/user-attachments/assets/39c7ddbd-8c8a-47f4-8087-46159b80b408" />
 
+---
 
+<img width="801" height="401" alt="msusejD" src="https://github.com/user-attachments/assets/b039ecd3-0f3a-47d6-a588-4387c8d8ad61" />
+
+---
+
+<img width="794" height="51" alt="QeAI3af" src="https://github.com/user-attachments/assets/b672bdf9-4580-48a9-98ad-d26ae16a82f2" />
 
 >- 👨‍💻 **steveg** — privileged sysadmin on a PIP  
 >- 🕵️ **john** — IR consultant with sudo privileges  
@@ -27,7 +34,27 @@ I set up the environment and made sure all the key players were ready. I created
 # Phase I — Attack Setup: Work Insurance Logic Bomb 💣
 I created a safe simulation script in steveg’s home directory, pretending it was HR Work Insurance automation. Then I moved the script to a persistent directory and configured a systemd path trigger so it would execute when steveg’s account was deleted.  
 
+<img width="964" height="271" alt="CoiPyXl" src="https://github.com/user-attachments/assets/8fa8bdaa-57cf-4f0a-bd86-e28d410ec823" />
 
+---
+
+<img width="756" height="130" alt="ogX4ZDY" src="https://github.com/user-attachments/assets/b5d351fc-f8eb-451e-af48-8e1c3821712e" />
+
+---
+
+<img width="989" height="95" alt="a3fs3C5" src="https://github.com/user-attachments/assets/b5c9b59b-58a4-48ee-a280-fcf9f9a55e60" />
+
+---
+
+<img width="823" height="261" alt="O0G4Eud" src="https://github.com/user-attachments/assets/fae914ed-eb43-453f-912e-4b4b728debd2" />
+
+---
+
+<img width="819" height="209" alt="PMqXzlR" src="https://github.com/user-attachments/assets/4a08743c-2de5-43fe-aa5d-a73028efcedf" />
+
+---
+
+<img width="715" height="41" alt="jljVWp9" src="https://github.com/user-attachments/assets/8931a8a9-6830-4733-90b6-7fa25ef131d5" />
 
 
 >- 📂 **Script creation** — /home/steveg/work_insurance.sh  
