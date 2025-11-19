@@ -1,4 +1,4 @@
-# 💣Insider Threat Lab: Work Insurance Logic Bomb💥
+# 💣Insider Threat Lab: Work Insurance Logic Bomb💥 
 
 ![CnBKPi0](https://github.com/user-attachments/assets/97414533-055f-4b58-b421-1fd7e3d12add)
 
@@ -74,7 +74,7 @@ I created a safe simulation script in steveg’s home directory, pretending it w
 # Phase II — Triggering the Logic Bomb 💥
 I stopped all active processes for steveg to allow account deletion, then deleted the account. This successfully triggered the Work Insurance logic bomb and generated forensic artifacts.  
 
-
+<img width="585" height="184" alt="yzhraqb" src="https://github.com/user-attachments/assets/a47ba40b-cafc-4b8b-bbdd-be1993280df3" />
 
 
 >- ❌ **Terminate user processes** — pkill -u steveg  
@@ -87,7 +87,7 @@ I stopped all active processes for steveg to allow account deletion, then delete
 # Phase III — Verification 👀
 I verified that the simulated malicious activity had occurred. I checked the artifact directory and inspected the system modifications to confirm the logic bomb executed correctly.  
 
-
+<img width="921" height="229" alt="pbRosw9" src="https://github.com/user-attachments/assets/8ed8d1ca-58eb-456c-adba-4114ed596e7c" />
 
 
 >- 📂 **Artifact inspection** — ls /tmp/work_insurance_records  
