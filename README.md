@@ -93,3 +93,18 @@ I verified that the simulated malicious activity had occurred. I checked the art
 >- 📂 **Artifact inspection** — ls /tmp/work_insurance_records  
 >- 🖊️ **Event logs** — cat /tmp/work_insurance_records/event.log  
 >- 🖥️ **System message** — cat /etc/motd
+
+---
+
+# 🔚 Conclusion & Next Steps
+
+This concludes Part 1 of the Insider Threat Lab, where I set up a simulated **Work Insurance logic bomb**, triggered it safely, and verified the artifacts.  
+
+In **Part 2**, I will switch to the IR consultant account (john) to:
+
+- Perform a detailed **incident response investigation**  
+- Run a **Qualys vulnerability scan** to identify system weaknesses  
+- Collect and analyze forensic evidence  
+
+Stay tuned for Part 2, where the focus shifts from **attack simulation** to **detection, analysis, and remediation**. 🚀
+
