@@ -1,5 +1,7 @@
 # 💣Insider Threat Lab: Work Insurance Logic Bomb💥
 
+![CnBKPi0](https://github.com/user-attachments/assets/97414533-055f-4b58-b421-1fd7e3d12add)
+
 In this lab, I simulated an insider threat scenario where a privileged sysadmin, steveg, sets up a harmless “logic bomb” disguised as a Work Insurance automation script. I then prepared the system for a forensic investigation by my IR consultant account, john.
 
 ---
